@@ -1,0 +1,17 @@
+{
+  "Gradient Boosting": {
+    "rmse": 27254.21,
+    "mae": 16359.43,
+    "r2": 0.9032
+  },
+  "Random Forest": {
+    "rmse": 28499.09,
+    "mae": 17496.53,
+    "r2": 0.8941
+  },
+  "Ridge Regression": {
+    "rmse": 34366.35,
+    "mae": 21392.11,
+    "r2": 0.846
+  }
+}
